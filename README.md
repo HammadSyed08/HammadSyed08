@@ -100,8 +100,8 @@ I specialize in creating fast, scalable, and user-friendly applications using **
 
 # 🤝 Connect With Me
 
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/hammadsyed88/">Linkedin Profile</a>
-- 🌐 Portfolio: <a href="https://hammadsyed.vercel.app/">Hammad Syed</a>
+- 💼 LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/hammadsyed88/">Linkedin Profile</a>
+- 🌐 Portfolio: <a target="_blank" href="https://hammadsyed.vercel.app/">Hammad Syed</a>
 - 📧 Email: Hammadword08@gmail.com
 
 ---
