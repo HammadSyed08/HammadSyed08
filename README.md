@@ -25,9 +25,17 @@ An expert **React & Next.js Developer** bridging the gap between high-performanc
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HammadSyed08&show_icons=true&theme=visualstudio&count_private=true" alt="Hammad's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadSyed08&layout=compact&theme=visualstudio" alt="Top Languages" height="180px" />
+<p align="center">
+  <a href="https://github.com/HammadSyed08">
+    <img src="https://github-readme-stats.vercel.app/api?username=HammadSyed08&show_icons=true&theme=visualstudio&count_private=true" alt="Hammad's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/HammadSyed08">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadSyed08&layout=compact&theme=visualstudio" alt="Top Languages" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HammadSyed08&theme=visualstudio" alt="Hammad's GitHub Streak" width="97%" />
 </p>
 
 ---
