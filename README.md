@@ -100,9 +100,9 @@ I specialize in creating fast, scalable, and user-friendly applications using **
 
 # 🤝 Connect With Me
 
-- 💼 LinkedIn: **Add Your LinkedIn**
-- 🌐 Portfolio: **Coming Soon**
-- 📧 Email: **your-email@example.com**
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/hammadsyed88/">Linkedin Profile</a>
+- 🌐 Portfolio: <a href="https://hammadsyed.vercel.app/">Hammad Syed</a>
+- 📧 Email: Hammadword08@gmail.com
 
 ---
 
