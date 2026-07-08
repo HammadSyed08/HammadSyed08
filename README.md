@@ -1,51 +1,113 @@
 # Hi there, I'm Hammad Syed 👋
 
-An expert **React & Next.js Developer** bridging the gap between high-performance web applications and cutting-edge **AI Automation**. I build fast, scalable user interfaces and automate complex workflows to drive efficiency.
+### 🚀 React.js • Next.js • AI Automation Engineer
+
+An experienced **Frontend & AI Automation Developer** passionate about building modern web applications and intelligent automation solutions.
+
+I specialize in creating fast, scalable, and user-friendly applications using **React**, **Next.js**, and modern AI technologies.
 
 ---
 
-### 🚀 What I Do
-- 💻 **Frontend Architecture:** Crafting production-ready web apps with React, Next.js (App Router), and Tailwind CSS.
-- 🤖 **AI Automation:** Integrating LLMs, building custom agents, and automating workflows using tools like LangChain, n8n, or Python.
-- ⚡ **Performance Optimization:** Maximizing Core Web Vitals, Server-Side Rendering (SSR), and static generation.
+## 💫 About Me
+
+- 💻 Building production-ready React & Next.js applications
+- 🤖 Developing AI Agents & Automation Workflows
+- ⚡ Optimizing performance with SSR, SSG & App Router
+- 🌍 Passionate about Open Source
+- 📚 Always learning new AI technologies
 
 ---
 
-### 🛠️ Tech Stack & Tools
+# 🚀 Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend Frameworks** | React, Next.js, Redux Toolkit, HTML5, CSS3 |
-| **Styling & UI** | Tailwind CSS, Shadcn/ui, Framer Motion, Material UI |
-| **AI & Automation** | OpenAI API, LangChain, n8n, Zapier, Python (Scripting) |
-| **Backend & Databases** | Node.js, Express, PostgreSQL, MongoDB, Firebase |
-| **Tools & DevOps** | Git, GitHub, Vercel, Docker, Postman |
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+### AI & Automation
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-### 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/HammadSyed08">
-    <img src="https://github-readme-stats.vercel.app/api?username=HammadSyed08&show_icons=true&theme=visualstudio&count_private=true" alt="Hammad's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/HammadSyed08">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadSyed08&layout=compact&theme=visualstudio" alt="Top Languages" width="48%" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HammadSyed08&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadSyed08&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HammadSyed08&theme=visualstudio" alt="Hammad's GitHub Streak" width="97%" />
+
+<img src="https://streak-stats.demolab.com?user=HammadSyed08&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### 🤝 Let's Connect & Collaborate
-- 🔭 **Currently working on:** Advanced AI-driven SaaS integrations and Next.js applications.
-- 🌱 **Always learning:** Evolving AI agent workflows and edge runtime optimizations.
-- 💬 **Ask me about:** React state management, Next.js SSR vs SSG, and how to automate your manual business workflows with AI.
-- 📫 **How to reach me:** [Your Email or LinkedIn Link Here]
+# 🏆 GitHub Trophy
 
 <p align="center">
-  <sub>Built with ❤️ by Hammad Syed</sub>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HammadSyed08&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HammadSyed08&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Next.js 15
+- 🤖 AI Agents
+- ⚡ n8n Automation
+- 🔥 OpenAI API
+- 💻 Full Stack SaaS
+- ☁️ Cloud Deployment
+
+---
+
+# 🤝 Connect With Me
+
+- 💼 LinkedIn: **Add Your LinkedIn**
+- 🌐 Portfolio: **Coming Soon**
+- 📧 Email: **your-email@example.com**
+
+---
+
+<p align="center">
+
+### ⭐ If you like my work, consider giving my repositories a star!
+
 </p>
