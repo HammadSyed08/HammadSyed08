@@ -199,9 +199,7 @@ A database-driven administration system designed to manage business records and 
 # 🏆 GitHub Trophy
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HammadSyed08&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HammadSyed08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -209,9 +207,10 @@ A database-driven administration system designed to manage business records and 
 # 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HammadSyed08&theme=tokyo-night&hide_border=true"/>
-
+  <img
+    src="https://raw.githubusercontent.com/HammadSyed08/HammadSyed08/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
