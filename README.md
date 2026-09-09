@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hammad Syed
+# 👋 Hi, I'm Syed Hammad Ali
 
 ### 🚀 Frontend Engineer | AI Automation Engineer | React.js | Next.js | n8n
 
