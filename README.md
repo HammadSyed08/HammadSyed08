@@ -185,9 +185,9 @@ A database-driven administration system designed to manage business records and 
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HammadSyed08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HammadSyed08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 
 ---
