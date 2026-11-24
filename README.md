@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Syed Hammad Ali
 
-### 🚀 Frontend Engineer | AI Automation Engineer | React.js | Next.js | n8n
+### 🚀 Software Engineer | AI Automation Engineer | React.js | Next.js | Node.js | Python | n8n
 
-I’m a **Frontend & AI Automation Engineer** focused on building modern web applications, AI-powered workflows, and automation systems that solve real-world business problems.
+I’m a **MERN Stack & AI Automation Engineer** focused on building modern web applications, AI-powered workflows, and automation systems that solve real-world business problems.
 
 I combine **frontend engineering, backend technologies, APIs, AI, and workflow automation** to build scalable digital solutions and reduce repetitive manual work.
 
